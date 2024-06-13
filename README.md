@@ -1,5 +1,5 @@
 # Introduction
-## This project demonstrates how to host a static website on AWS S3. It covers the essential steps from creating an S3 bucket to making your website accessible to the public.
+ This project demonstrates how to host a static website on AWS S3. It covers the essential steps from creating an S3 bucket to making your website accessible to the public.
 
 # Features
 ## 1.Simple and easy-to-follow instructions
