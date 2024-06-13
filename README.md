@@ -4,14 +4,12 @@
 # Features
 
 1. Simple and easy-to-follow instructions
-
-2. Step-by-step guide for beginners
    
-3. Utilizes AWS S3 for reliable and scalable hosting
+2. Utilizes AWS S3 for reliable and scalable hosting
 
 # Prerequisites
  - An AWS account
- - Basic knowledge of AWS services
+ - Basic knowledge of AWS services(S3)
  - Static website files (HTML, CSS, JavaScript)
 
 
